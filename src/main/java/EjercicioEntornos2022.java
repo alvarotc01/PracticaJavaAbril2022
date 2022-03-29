@@ -10,6 +10,6 @@
 public class EjercicioEntornos2022 {
     
    public static void main(String[]args){
-    System.out.println("Me llamo Alvaro o eso dicen");
+    System.out.println("Me llamo Alvaro y estoy en 1º DAM");
     }
 }
